@@ -1,0 +1,3 @@
+**/__pycache__
+app/service/ragflow/rag/res/*
+.env

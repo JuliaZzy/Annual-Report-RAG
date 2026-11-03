@@ -1,0 +1,12 @@
+.DS_Store
+**/.env
+**/node_modules/
+**/__pycache__/
+**/*.pyc
+*.log
+
+# 含登录凭证，不能进仓库
+gpt.txt
+
+# GitHub 单文件上限 100MB
+wsl启动rag项目/*.mp4
